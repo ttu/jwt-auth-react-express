@@ -1,9 +1,11 @@
-# jwt-auth-react-next-express
+# jwt-auth-react-express
 
 ### UI
 
+[Setup](https://medium.com/@nedopaka/setup-a-react-vite-project-with-swc-prettier-vitest-2024-62ecff357c7b)
+
 ```sh
-npx create-next-app@latest ui --use-npm --example "https://github.com/vercel/next-learn/tree/main/basics/typescript-final"
+npm create vite@latest
 ```
 
 ### API
